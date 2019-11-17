@@ -22,7 +22,7 @@ title: Mamacos Media
 email: elizaokes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I’m passionate about researching, writing and sharing news and general interest content that helps people to improve, that informs and motivates them to take action, and that uplifts, connects and inspires them.
-baseurl: "/mamacos.media" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elizamamacos
 
