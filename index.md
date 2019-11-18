@@ -3,7 +3,7 @@ id: 12
 title: Portfolio
 date: 2018-10-09T08:43:19+00:00
 author: Elizabeth Mamacos
-layout: page
+layout: default
 guid: https://mamacosmedia.wordpress.com/?page_id=5
 sharing_disabled:
   - "1"
