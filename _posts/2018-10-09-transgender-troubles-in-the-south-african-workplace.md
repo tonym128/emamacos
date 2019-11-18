@@ -13,7 +13,7 @@ categories:
 ---
 Ours was the first country in the world to expressly forbid discrimination on the grounds of gender and of sexual orientation, and our Constitution includes a guarantee of equality.
 
-But because &#8220;_the South African mindset is not as progressive as the South African constitution_&#8220;, as explained by one trans interviewee, many transgender people choose to conceal their gender identity from their families, their friends and their co-workers for fear of discrimination.
+But because “_the South African mindset is not as progressive as the South African constitution_“, as explained by one trans interviewee, many transgender people choose to conceal their gender identity from their families, their friends and their co-workers for fear of discrimination.
 
 <a href="https://careeradvice.careers24.com/career-advice/management-advice/transgender-trans-south-africa-workplace-advice-20160318" target="_blank" rel="noopener">Read the full story on Careers24</a>
 

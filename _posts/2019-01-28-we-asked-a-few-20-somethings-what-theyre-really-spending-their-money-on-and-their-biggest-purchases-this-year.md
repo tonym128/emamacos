@@ -1,6 +1,6 @@
 ---
 id: 204
-title: 'We asked a few 20 somethings what they&#8217;re really spending their money on and their biggest purchases this year'
+title: 'We asked a few 20 somethings what they’re really spending their money on and their biggest purchases this year'
 date: 2019-01-28T10:26:50+00:00
 author: Elizabeth Mamacos
 layout: post

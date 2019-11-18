@@ -10,9 +10,9 @@ sharing_disabled:
 switch_like_status:
   - 'a:1:{i:0;i:0;}'
 ---
-I&#8217;m passionate about researching, writing and sharing news and general interest content that helps people to improve, that informs and motivates them to take action, and that uplifts, connects and inspires them. 
+I’m passionate about researching, writing and sharing news and general interest content that helps people to improve, that informs and motivates them to take action, and that uplifts, connects and inspires them. 
 
-I&#8217;m based in beautiful Cape Town, but thanks to the web I have an exciting network of contacts around the world, which I leverage to create informative, useful and insightful articles that add value to readers, and brings awareness and authority to my client&#8217;s sites. 
+I’m based in beautiful Cape Town, but thanks to the web I have an exciting network of contacts around the world, which I leverage to create informative, useful and insightful articles that add value to readers, and brings awareness and authority to my client’s sites. 
 
 Over the course of my career I have written news, curated web content, created marketing materials, investigated trends, interviewed celebrities, sourced photography, provided career advice, directed videos, consulted with industry experts, managed a team of writers and worked across a variety of platforms, including print and digital to produce top text, video and image content that appeals to readers everywhere.
 

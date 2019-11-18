@@ -11,9 +11,9 @@ timeline_notification:
 categories:
   - Uncategorised
 ---
-Margareta Magnusson, the bestselling author of _The Gentle Art of Swedish Death Cleaning (How to Free Yourself and Your Family from a Lifetime of Clutter)_, can&#8217;t stress this enough: it’s your responsibility to relieve your children of the burden (and sometimes enormous cost) of getting rid of your possessions when you no longer have use for them.
+Margareta Magnusson, the bestselling author of _The Gentle Art of Swedish Death Cleaning (How to Free Yourself and Your Family from a Lifetime of Clutter)_, can’t stress this enough: it’s your responsibility to relieve your children of the burden (and sometimes enormous cost) of getting rid of your possessions when you no longer have use for them.
 
-She outlined the Swedish phenomenon of &#8216;death cleaning&#8217; in her book. It&#8217;s about tidying up, minimising, and giving away heirlooms and treasured possessions to those you intend them for, while you are still alive.
+She outlined the Swedish phenomenon of ’death cleaning’ in her book. It’s about tidying up, minimising, and giving away heirlooms and treasured possessions to those you intend them for, while you are still alive.
 
 Magnusson’s book was released last year, and, well, the concept really hasn’t caught on in South Africa.
 

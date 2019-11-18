@@ -9,7 +9,7 @@ permalink: /2019/01/15/if-you-think-freelancers-only-work-for-big-corporates-you
 categories:
   - Uncategorized
 ---
-Freelancers are hired by big companies to fill in for employees or to briefly bolster resources, but what many people don’t realize is that freelancers are more frequently hired by small businesses, start-ups, entrepreneurs &#8211; and even by other freelancers. 
+Freelancers are hired by big companies to fill in for employees or to briefly bolster resources, but what many people don’t realize is that freelancers are more frequently hired by small businesses, start-ups, entrepreneurs – and even by other freelancers. 
 
 Read the full story at [FreelancerZA](https://www.freelancerza.com/blog/40-if-you-think-freelancers-only-work-for-big-corporates,-you%E2%80%99re-wrong.html)<figure class="wp-block-image">
 

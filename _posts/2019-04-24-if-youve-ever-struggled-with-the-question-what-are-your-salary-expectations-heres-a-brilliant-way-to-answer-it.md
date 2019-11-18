@@ -1,6 +1,6 @@
 ---
 id: 318
-title: 'If you&#8217;ve ever struggled with the question “What are your salary expectations?” here&#8217;s a brilliant way to answer it'
+title: 'If you’ve ever struggled with the question “What are your salary expectations?” here’s a brilliant way to answer it'
 date: 2019-04-24T08:39:37+00:00
 author: Elizabeth Mamacos
 layout: post

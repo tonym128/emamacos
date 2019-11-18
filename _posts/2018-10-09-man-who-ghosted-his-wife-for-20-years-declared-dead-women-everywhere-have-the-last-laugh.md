@@ -1,6 +1,6 @@
 ---
 id: 23
-title: 'Man who ghosted his wife for 20 years declared &#8220;dead&#8221;: women everywhere have the last laugh'
+title: 'Man who ghosted his wife for 20 years declared “dead”: women everywhere have the last laugh'
 date: 2018-10-09T10:18:55+00:00
 author: Elizabeth Mamacos
 layout: post

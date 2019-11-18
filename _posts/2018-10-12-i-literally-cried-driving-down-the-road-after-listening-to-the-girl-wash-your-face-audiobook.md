@@ -1,6 +1,6 @@
 ---
 id: 87
-title: '&#8220;I literally cried driving down the road after listening to the &#8216;Girl, Wash Your Face&#8217; audiobook&#8221;'
+title: '“I literally cried driving down the road after listening to the ’Girl, Wash Your Face’ audiobook”'
 date: 2018-10-12T13:23:26+00:00
 author: Elizabeth Mamacos
 layout: post

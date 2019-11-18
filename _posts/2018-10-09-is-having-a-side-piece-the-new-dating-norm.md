@@ -1,6 +1,6 @@
 ---
 id: 44
-title: 'Is having a &#8216;side piece&#8217; the new dating norm?'
+title: 'Is having a ’side piece’ the new dating norm?'
 date: 2018-10-09T12:06:56+00:00
 author: Elizabeth Mamacos
 layout: post

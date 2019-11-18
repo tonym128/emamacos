@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - Uncategorised
 ---
-It’s been three years since “transgender” was announced as one of the top ten “Words of the Year” by the [Collins English Dictionary](https://www.collinsdictionary.com/word-lovers-blog/new/binge-watch-collins-word-of-the-year-2015,251,HCB.html). Caitlyn Jenner is old news, Laverne Cox is taking over women&#8217;s magazine covers around the world and nearly everyone knows of a trans person in their social circle.
+It’s been three years since “transgender” was announced as one of the top ten “Words of the Year” by the [Collins English Dictionary](https://www.collinsdictionary.com/word-lovers-blog/new/binge-watch-collins-word-of-the-year-2015,251,HCB.html). Caitlyn Jenner is old news, Laverne Cox is taking over women's magazine covers around the world and nearly everyone knows of a trans person in their social circle.
 
 **Why then are trans employees still not accepted into the workplace? **
 

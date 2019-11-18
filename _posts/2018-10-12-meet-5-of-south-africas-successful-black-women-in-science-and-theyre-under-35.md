@@ -1,6 +1,6 @@
 ---
 id: 94
-title: 'Meet 5 of South Africa&#8217;s successful black women in science &#8211; and they&#8217;re under 35'
+title: 'Meet 5 of South Africa’s successful black women in science – and they’re under 35'
 date: 2018-10-12T14:12:41+00:00
 author: Elizabeth Mamacos
 layout: post

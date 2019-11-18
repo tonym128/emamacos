@@ -11,7 +11,7 @@ timeline_notification:
 categories:
   - Uncategorised
 ---
-There are more than a thousand Waldorf schools in the world, and 17 of them are spread across South Africa. The schooling system, which has sometimes been considered a little &#8220;out there&#8221; or controversial, is steadily growing in popularity, but is still subject to some widespread negative misconceptions.
+There are more than a thousand Waldorf schools in the world, and 17 of them are spread across South Africa. The schooling system, which has sometimes been considered a little “out there” or controversial, is steadily growing in popularity, but is still subject to some widespread negative misconceptions.
 
 We interviewed Waldorf teachers, students and parents to get to the bottom of some of the more common myths. Anette Bestwick, a teacher at Michael Oak Waldorf in Kenilworth, Cape Town, kindly responded to our questions with some thorough answers.
 

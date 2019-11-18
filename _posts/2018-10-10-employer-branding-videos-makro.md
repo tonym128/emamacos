@@ -19,4 +19,4 @@ For the videos, I formulated a targeted questionnaire and interviewed the select
 
 In total, <a href="https://www.youtube.com/results?search_query=careers24+makro" target="_blank" rel="noopener">four videos</a> where created for Makro and included in their Company Showcase on Careers24.
 
-<a href="https://www.careers24.com/now-hiring/16798-makro-sa/home/" target="_blank" rel="noopener">See Makro&#8217;s full Company Showcase on Careers24</a>
+<a href="https://www.careers24.com/now-hiring/16798-makro-sa/home/" target="_blank" rel="noopener">See Makro’s full Company Showcase on Careers24</a>
