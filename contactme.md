@@ -10,6 +10,6 @@ sharing_disabled:
 switch_like_status:
   - 'a:1:{i:0;i:0;}'
 ---
-Email : <elizabeth@mamacos.media>
+Email : <elizaokes@gmail.com>
 
 Phone : [+27 71 903 3015](tel:+27719033015)
